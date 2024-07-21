@@ -1,3 +1,3 @@
 # coding-project-template
-[LIVE](https://kasunudayanga.github.io/IBM-react/)
+[LIVE](https://adithya3522s.github.io/Shopping_Cart/)
 
